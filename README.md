@@ -1,6 +1,6 @@
-# Chatroom MQTT con Python y React para el Hacktoberfest 10 de Python Coruña
+# Chatroom MQTT with Python and React for the Hacktoberfest 10 from Python Coruña
 
-Este proyecto es una aplicación de chat en tiempo real desarrollada como parte del evento Hacktoberfest de Python Coruña. La aplicación utiliza tecnologías web modernas, incluyendo WebSocket para la comunicación en tiempo real y React para el frontend. La aplicación permite a los usuarios enviar mensajes en tiempo real y participar en conversaciones interactivas.
+This project is a real-time chat application developed as part of the Python Coruña Hacktoberfest event. The application uses modern web technologies, including WebSocket for real-time communication and React for the frontend. The app allows users to send messages in real time and participate in interactive conversations.
 
 ## Requirements
 
@@ -44,8 +44,8 @@ npm run dev
 
 ## Uso de la Aplicación
 
-Una vez que hayas seguido los pasos anteriores, puedes acceder a la aplicación de chat en tiempo real desde tu navegador. La aplicación te permitirá enviar mensajes en tiempo real a otros usuarios conectados al mismo chat.
+Once you have followed the steps above, you can access the real-time chat app from your browser. The application will allow you to send messages in real time to other users connected to the same chat.
 
 ## Contribuciones para el Hacktoberfest
 
-Este proyecto es parte del Hacktoberfest de Python Coruña. Si deseas contribuir, asegúrate de leer las pautas de contribución en el repositorio. ¡Esperamos tus contribuciones y disfruta del Hacktoberfest!
+This project is part of the Python Coruña Hacktoberfest 10. If you want to contribute, be sure to read the contribution guidelines in the repository. We look forward to your contributions and enjoy Hacktoberfest!
